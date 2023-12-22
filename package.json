@@ -9,9 +9,17 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@emailjs/browser": "3.10.0",
+    "@react-three/drei": "9.92.5",
+    "@react-three/fiber": "8.11.5",
+    "@react-three/postprocessing": "2.7.0",
+    "next": "14.0.4",
     "react": "18",
     "react-dom": "18",
-    "next": "14.0.4"
+    "react-simple-maps": "3.0.0",
+    "sharp": "^0.33.1",
+    "styled-components": "5.3.6",
+    "three": "0.150.1"
   },
   "devDependencies": {
     "eslint": "8",
